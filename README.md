@@ -4,11 +4,11 @@
 
 ## Grupo 2:
 
-*   Dimitri Santana Marinho
+*   Dimitri Santana Marinho 
 *   Erick Santos do Nascimento
 *   Ewerton Da Silva Costa
 *   Jansen Cruz de Souza
-*   Maicon Serrão Gavino
+*   [Maicon Serrão Gavino](github.com/maicongavino)
 
 ### TEMA: COVID -19
 
