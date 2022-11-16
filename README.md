@@ -7,7 +7,7 @@
 *   Dimitri Santana Marinho 
 *   Erick Santos do Nascimento
 *   [Ewerton da Silva Costa](https://github.com/EwertonAvlis)
-*   [Jansen Cruz de Souza](https://github.com/jansen.souza)
+*   [Jansen Cruz de Souza](https://github.com/jansencdia)
 *   [Maicon Serrão Gavino](https://github.com/maicongavino)
 
 ### TEMA: COVID -19
