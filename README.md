@@ -4,8 +4,8 @@
 
 ## Grupo 2:
 
-*   Dimitri Santana Marinho 
-*   Erick Santos do Nascimento
+*   [Dimitri Santana Marinho](https://github.com/dimitrimarinho) 
+*   [Erick Santos do Nascimento](https://github.com/Birunda3000)
 *   [Ewerton da Silva Costa](https://github.com/EwertonAvlis)
 *   [Jansen Cruz de Souza](https://github.com/jansencdia)
 *   [Maicon Serrão Gavino](https://github.com/maicongavino)
