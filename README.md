@@ -34,3 +34,5 @@ Após a limpeza e tratamento dos dados, pode-se alencar os seguintes questioname
 3 - Qual a mortalidade (razão entre o Número Total de Mortes e o Número Total de Casos) para cada países?
 
 4 - Qual o comportamento por continente?
+
+   if ("BAC in codigo_produto")
