@@ -35,6 +35,3 @@ Após a limpeza e tratamento dos dados, pode-se alencar os seguintes questioname
 
 4 - Qual o comportamento por continente?
 
-if ("BAC in codigo_produto")
-
-      if ("BAC in codigo_produto")
