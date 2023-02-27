@@ -14,7 +14,7 @@
 
 **Contexto**
 
-  COVID-19 é um vírus (mais especificamente, um coronavírus) identificado como a causa de um surto de doença respiratória detectado pela primeira vez em Wuhan, China. A pandemia coronavírus (COVID19), período 2019-2022,  é uma pandemia global contínua da doença causada pela síndrome respiratória aguda grave coronavirus 2 (SARS-CoV-2). O vírus surgiu em dezembro de 2019 e em 11 de novembro de 2022, a Organização Mundial da Saúde declarou o surto como uma pandemia.
+  - COVID-19 é um vírus (mais especificamente, um coronavírus) identificado como a causa de um surto de doença respiratória detectado pela primeira vez em Wuhan, China. A pandemia coronavírus (COVID19), período 2019-2022,  é uma pandemia global contínua da doença causada pela síndrome respiratória aguda grave coronavirus 2 (SARS-CoV-2). O vírus surgiu em dezembro de 2019 e em 11 de novembro de 2022, a Organização Mundial da Saúde declarou o surto como uma pandemia.
    
 Esse conjunto de dados tem informações sobre o número de casos afetados, óbitos e recuperação do novo coronavírus de 2019. Por favor, note que esses dados foram obtidos de https://www.worldometers.info/coronavirus/ e são apenas para fins educativos.
 
